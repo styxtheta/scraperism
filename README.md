@@ -1,5 +1,5 @@
 # Scraperism
-Code snippet which scrapes for words ending with "-ism" and stores it in a text file using Beautiful Soup library.
+A simple script which scrapes for words ending with "-ism" and stores it in a text file.
 
 While running it locally, make sure to install the following packages:
 
